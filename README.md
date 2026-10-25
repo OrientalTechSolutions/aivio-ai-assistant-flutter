@@ -6,6 +6,12 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![AIVIO app screens](app-screens.png)
+
+![AIVIO AI assistant overview](banner.png)
+
 ## Why we built it
 
 We wanted one app for chat, voice, images and documents, instead of jumping between AI tools, with agents that can get tasks done.
